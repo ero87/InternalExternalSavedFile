@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">RadioGroup</string>
+    <string name="input_name">Input Name File</string>
+    <string name="input_text">Input Text in File</string>
+    <string name="save_file">Save to File</string>
+    <string name="internal">Internal</string>
+    <string name="external">External</string>
+    <string name="save">save</string>
+    <string name="read">read</string>
+</resources>
